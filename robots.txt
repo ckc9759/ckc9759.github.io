@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /flag.html
+
+ckc9759
