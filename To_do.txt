@@ -1,0 +1,8 @@
+1. Like & comment button
+2. views count
+3. blog and misc pages
+4. smtp - email contact
+5. suggestion file
+6. read more
+7. documentation
+8. Animation & Keyframes
